@@ -1,0 +1,6 @@
+texts = ["Phantom Cloak acquired"]
+left = 100
+right = 380
+top = 120
+bottom = 138
+methods = [1]
