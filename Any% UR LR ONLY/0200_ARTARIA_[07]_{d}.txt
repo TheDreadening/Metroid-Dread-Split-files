@@ -1,4 +1,4 @@
-texts = ["CATARIS"]
+texts = ["ARTARIA"]
 left = 193
 right = 285
 top = 11
