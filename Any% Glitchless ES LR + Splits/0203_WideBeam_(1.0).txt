@@ -1,0 +1,7 @@
+texts = ["Wide Beam acquired"]
+left = 100
+right = 380
+top = 120
+bottom = 138
+methods = [1]
+fps_limit = 60

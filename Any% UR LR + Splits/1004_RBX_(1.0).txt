@@ -1,0 +1,7 @@
+texts = ["02:5"]
+left = 190
+right = 290
+top = 14
+bottom = 38
+methods = [1,0]
+fps_limit = 60
