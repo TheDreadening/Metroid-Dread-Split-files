@@ -1,0 +1,7 @@
+texts = ["ARTARIA"]
+left = 193
+right = 285
+top = 11
+bottom = 30
+methods = [1,0]
+fps_limit = 60
