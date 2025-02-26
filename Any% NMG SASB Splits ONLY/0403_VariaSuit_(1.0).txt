@@ -1,0 +1,7 @@
+texts = ["Varia Suit acquired"]
+left = 183
+right = 299
+top = 118
+bottom = 142
+methods = [1]
+fps_limit = 60
