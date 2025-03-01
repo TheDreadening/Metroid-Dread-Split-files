@@ -1,0 +1,7 @@
+texts = ["Ice Missile acquired"]
+left = 183
+right = 419 
+top = 144
+bottom = 165
+methods = [1,0]
+fps_limit = 60

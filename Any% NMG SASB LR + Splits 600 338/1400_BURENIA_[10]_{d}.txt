@@ -1,0 +1,7 @@
+texts = ["BURENIA"]
+left = 233
+right = 368
+top = 8
+bottom = 34 
+methods = [1,0]
+fps_limit = 60
